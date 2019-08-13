@@ -54,7 +54,7 @@ h1, h2, h3, h4, h5, h6, header, main, footer, nav, p {
 }
 
 .top-header .jumbotron {
-    background-image: url(../img/tesla-model-x-black.png);
+    background-image: url(img/tesla-model-x-black.png);
     background-position: center;
     background-size: cover;
     min-height: 300px;
